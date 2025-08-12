@@ -3,8 +3,11 @@
 
 ## 1. Hashing
 
-|<img width="2850" height="522" alt="formula_01" src="https://github.com/user-attachments/assets/87a1050f-bc27-447a-a238-80864d1565f6" />|<img width="2850" height="522" alt="formula_02" src="https://github.com/user-attachments/assets/ced9e8c0-65ee-4d8d-a183-ac65b5085871" />|
-|---|---|
+|<img width="2850" height="522" alt="formula_01" src="https://github.com/user-attachments/assets/87a1050f-bc27-447a-a238-80864d1565f6" />|
+|---|
+
+|<img width="2850" height="522" alt="formula_02" src="https://github.com/user-attachments/assets/ced9e8c0-65ee-4d8d-a183-ac65b5085871" />|
+|---|
 
 <br>
 
@@ -17,8 +20,11 @@
 
 ## 3. Authenticated Encryption (AES-256-GCM)
 
-|<img width="2850" height="522" alt="formula_04" src="https://github.com/user-attachments/assets/9af73bfc-65ed-4ecc-ad50-7f6344e85341" />|<img width="2850" height="522" alt="formula_05" src="https://github.com/user-attachments/assets/0945e8f7-5f64-4e8e-9253-f948a3691977" />|
-|---|---|
+|<img width="2850" height="522" alt="formula_04" src="https://github.com/user-attachments/assets/9af73bfc-65ed-4ecc-ad50-7f6344e85341" />|
+|---|
+
+|<img width="2850" height="522" alt="formula_05" src="https://github.com/user-attachments/assets/0945e8f7-5f64-4e8e-9253-f948a3691977" />|
+|---|
 
 <br>
 
@@ -52,8 +58,14 @@
 
 ## 8. End-to-End Flow
 
-|<img width="2850" height="522" alt="formula_10" src="https://github.com/user-attachments/assets/ea419516-6cf6-4a55-8294-d93747d74d58" />|<img width="2850" height="522" alt="formula_11" src="https://github.com/user-attachments/assets/ae9c850e-e5f1-4bb6-9fbc-8f6f3a541d79" />|<img width="2850" height="522" alt="formula_12" src="https://github.com/user-attachments/assets/c0a20cbc-f756-4201-81ff-cc67c04ba766" />|
-|---|---|---|
+|<img width="2850" height="522" alt="formula_10" src="https://github.com/user-attachments/assets/ea419516-6cf6-4a55-8294-d93747d74d58" />|
+|---|
+
+|<img width="2850" height="522" alt="formula_11" src="https://github.com/user-attachments/assets/ae9c850e-e5f1-4bb6-9fbc-8f6f3a541d79" />|
+|---|
+
+|<img width="2850" height="522" alt="formula_12" src="https://github.com/user-attachments/assets/c0a20cbc-f756-4201-81ff-cc67c04ba766" />|
+|---|
 
 <br>
 
