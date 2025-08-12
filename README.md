@@ -1,4 +1,4 @@
-# Compact Security Suite
+# Compact Security Suite (DE/EN)
 
 |![Logo](/assets/logo.png)|
 |---|
