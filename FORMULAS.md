@@ -1,3 +1,63 @@
+<details>
+  <summary> Dropdown | FORMULAS .png</summary>
+
+## 1. Hashing
+
+|<img width="2850" height="522" alt="formula_01" src="https://github.com/user-attachments/assets/87a1050f-bc27-447a-a238-80864d1565f6" />|<img width="2850" height="522" alt="formula_02" src="https://github.com/user-attachments/assets/ced9e8c0-65ee-4d8d-a183-ac65b5085871" />|
+|---|---|
+
+<br>
+
+## 2. Key Derivation (scrypt)
+
+|<img width="2850" height="522" alt="formula_03" src="https://github.com/user-attachments/assets/697645ef-584e-4a90-8b44-d951f1db8808" />|
+|---|
+
+<br>
+
+## 3. Authenticated Encryption (AES-256-GCM)
+
+|<img width="2850" height="522" alt="formula_04" src="https://github.com/user-attachments/assets/9af73bfc-65ed-4ecc-ad50-7f6344e85341" />|<img width="2850" height="522" alt="formula_05" src="https://github.com/user-attachments/assets/0945e8f7-5f64-4e8e-9253-f948a3691977" />|
+|---|---|
+
+<br>
+
+## 4. Container Format (.enc)
+
+|<img width="2850" height="522" alt="formula_06" src="https://github.com/user-attachments/assets/83d3a976-8c3c-4803-af3a-d4bcd1923bcb" />|
+|---|
+
+<br>
+
+## 5. Integrity & Authenticity
+
+|<img width="2850" height="522" alt="formula_07" src="https://github.com/user-attachments/assets/39cccb67-fca3-4af8-88f7-dbde51dec07e" />|
+|---|
+
+<br>
+
+## 6. Lossless Compression (ZIP/DEFLATE)
+
+|<img width="2850" height="522" alt="formula_08" src="https://github.com/user-attachments/assets/7f71cada-034a-4d27-abfd-92c4f55368f1" />|
+|---|
+
+<br>
+
+## 7. Secure Deletion (Shred)
+
+|<img width="2850" height="522" alt="formula_09" src="https://github.com/user-attachments/assets/a4b3dec4-05ae-4f2b-a569-21839b5f219d" />|
+|---|
+
+<br>
+
+## 8. End-to-End Flow
+
+|<img width="2850" height="522" alt="formula_10" src="https://github.com/user-attachments/assets/ea419516-6cf6-4a55-8294-d93747d74d58" />|<img width="2850" height="522" alt="formula_11" src="https://github.com/user-attachments/assets/ae9c850e-e5f1-4bb6-9fbc-8f6f3a541d79" />|<img width="2850" height="522" alt="formula_12" src="https://github.com/user-attachments/assets/c0a20cbc-f756-4201-81ff-cc67c04ba766" />|
+|---|---|---|
+
+<br>
+
+</details>
 
 # Mathematical Notation – Compact Security Suite - LaTeX
 
