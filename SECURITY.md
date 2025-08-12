@@ -6,8 +6,7 @@ The following table lists the versions of **Compact Security Suite** that are cu
 
 | Version     | Supported          |
 |-------------|--------------------|
-| 1.1.x       | ✅ Fully supported |
-| 1.0.x       | ❌ No longer supported |
+| 1.0.x       | ✅ Fully supported |
 
 ---
 
