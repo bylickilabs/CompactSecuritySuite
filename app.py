@@ -14,7 +14,7 @@ from cryptography.hazmat.primitives.kdf.scrypt import Scrypt
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 
 APP_NAME = "Compact Security Suite"
-APP_VERSION = "1.1.0"
+APP_VERSION = "1.0.0"
 APP_AUTHOR = "| ©Thorsten Bylicki | ©BYLICKILABS"
 APP_TITLE_DE = " – Kompakte Sicherheit mit Hashing, Verschlüsselung und Löschfunktionen"
 APP_TITLE_EN = " – Compact security with hashing, encryption and deletion features"
