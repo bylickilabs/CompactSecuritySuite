@@ -1,6 +1,6 @@
 # Compact Security Suite
 
-|[Logo][/assets/logo.png]|
+|![Logo](/assets/logo.png)|
 |---|
 
 ## Overview (EN)
