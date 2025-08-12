@@ -15,7 +15,7 @@ The following table lists the versions of **Compact Security Suite** that are cu
 If you discover a security vulnerability in **Compact Security Suite**, please **DO NOT** open a public GitHub Issue.  
 Instead, follow the secure reporting process below:
 
-1. **Contact**: Send an email to **security@bylickilabs.com** *(replace with your real contact)* with the subject:  
+1. **Contact**: Send an email to **bylicki@mail.de** *(replace with your real contact)* with the subject:  
    ```
    Security Vulnerability Report – Compact Security Suite
    ```
