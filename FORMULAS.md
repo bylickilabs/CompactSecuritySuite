@@ -59,6 +59,10 @@
 
 </details>
 
+---
+
+<br>
+
 # Mathematical Notation – Compact Security Suite - LaTeX
 
 ## 1. Hashing
